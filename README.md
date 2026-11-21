@@ -51,4 +51,4 @@ Per riprodurre correttamente le simulazioni senza errori di variabili mancanti n
   howpublished = {Tesi di Laurea Triennale, Sapienza Università di Roma},
   year         = {2026},
   url          = {https://github.com/niccolo-proia/controllo-ago-flessibile-sapienza}
-}
+}```
