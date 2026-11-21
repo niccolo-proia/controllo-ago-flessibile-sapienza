@@ -1,0 +1,11 @@
+# Cache e file temporanei MATLAB / Simulink
+*.slxc
+slprj/
+*.asv
+*.autosave
+*.mex*
+*.mat~
+
+# File di sistema
+.DS_Store
+Thumbs.db
